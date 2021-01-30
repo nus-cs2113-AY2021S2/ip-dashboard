@@ -1,0 +1,430 @@
+{
+  "repoSenseVersion": "0b7e276b40",
+  "reportGeneratedTime": "Sat Jan 30 15:47:00 2021 UTC",
+  "reportGenerationTime": " 2 minute(s) 7.38 second(s)",
+  "zoneId": "Etc/UTC",
+  "reportTitle": "RepoSense Report",
+  "repos": [],
+  "errorList": [
+    {
+      "repoName": "zihan9485/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/zihan9485/ip.git"
+    },
+    {
+      "repoName": "beaniestanley/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/beaniestanley/ip.git"
+    },
+    {
+      "repoName": "vvvvh123/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/vvvvh123/ip.git"
+    },
+    {
+      "repoName": "LJ-37/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/LJ-37/ip.git"
+    },
+    {
+      "repoName": "jonahtwl/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/jonahtwl/ip.git"
+    },
+    {
+      "repoName": "douglaslewpc/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/douglaslewpc/ip.git"
+    },
+    {
+      "repoName": "AlexanderTanJunAn/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/AlexanderTanJunAn/ip.git"
+    },
+    {
+      "repoName": "liping-eng/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/liping-eng/ip.git"
+    },
+    {
+      "repoName": "KevinNgWK/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/KevinNgWK/ip.git"
+    },
+    {
+      "repoName": "cswbibibi/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/cswbibibi/ip.git"
+    },
+    {
+      "repoName": "tehtea/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/tehtea/ip.git"
+    },
+    {
+      "repoName": "E00426142/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/E00426142/ip.git"
+    },
+    {
+      "repoName": "chenling1022/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/chenling1022/ip.git"
+    },
+    {
+      "repoName": "seangoats/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/seangoats/ip.git"
+    },
+    {
+      "repoName": "yanli1215/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/yanli1215/ip.git"
+    },
+    {
+      "repoName": "jianningzhuang/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/jianningzhuang/ip.git"
+    },
+    {
+      "repoName": "MingShun98/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/MingShun98/ip.git"
+    },
+    {
+      "repoName": "sarzorwyn/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/sarzorwyn/ip.git"
+    },
+    {
+      "repoName": "huachen24/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/huachen24/ip.git"
+    },
+    {
+      "repoName": "L-Irvin/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/L-Irvin/ip.git"
+    },
+    {
+      "repoName": "kewenlok/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/kewenlok/ip.git"
+    },
+    {
+      "repoName": "fangxinjia0203/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/fangxinjia0203/ip.git"
+    },
+    {
+      "repoName": "s-t-e-f/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/s-t-e-f/ip.git"
+    },
+    {
+      "repoName": "EmilyTJX/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/EmilyTJX/ip.git"
+    },
+    {
+      "repoName": "fsgmhoward/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/fsgmhoward/ip.git"
+    },
+    {
+      "repoName": "wjchoi0712/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/wjchoi0712/ip.git"
+    },
+    {
+      "repoName": "FarmZH98/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/FarmZH98/ip.git"
+    },
+    {
+      "repoName": "nagiteja/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/nagiteja/ip.git"
+    },
+    {
+      "repoName": "rageqqq/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/rageqqq/ip.git"
+    },
+    {
+      "repoName": "hussain1998/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/hussain1998/ip.git"
+    },
+    {
+      "repoName": "JonathanKhooTY/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/JonathanKhooTY/ip.git"
+    },
+    {
+      "repoName": "hazelhedmine/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/hazelhedmine/ip.git"
+    },
+    {
+      "repoName": "zhangyongzhe20/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/zhangyongzhe20/ip.git"
+    },
+    {
+      "repoName": "averliz/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/averliz/ip.git"
+    },
+    {
+      "repoName": "Chiamjiaen/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/Chiamjiaen/ip.git"
+    },
+    {
+      "repoName": "conanlees/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/conanlees/ip.git"
+    },
+    {
+      "repoName": "ivanchongzhien/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/ivanchongzhien/ip.git"
+    },
+    {
+      "repoName": "marklowsk/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/marklowsk/ip.git"
+    },
+    {
+      "repoName": "CabbageTime/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/CabbageTime/ip.git"
+    },
+    {
+      "repoName": "limwenfeng/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/limwenfeng/ip.git"
+    },
+    {
+      "repoName": "kwokyto/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/kwokyto/ip.git"
+    },
+    {
+      "repoName": "Tyuanyuan/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/Tyuanyuan/ip.git"
+    },
+    {
+      "repoName": "isaharon/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/isaharon/ip.git"
+    },
+    {
+      "repoName": "BlubberMonster/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/BlubberMonster/ip.git"
+    },
+    {
+      "repoName": "ManikaHennedige/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/ManikaHennedige/ip.git"
+    },
+    {
+      "repoName": "hiongkaihan/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/hiongkaihan/ip.git"
+    },
+    {
+      "repoName": "brandonfoong/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/brandonfoong/ip.git"
+    },
+    {
+      "repoName": "justinaquak/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/justinaquak/ip.git"
+    },
+    {
+      "repoName": "violinyap/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/violinyap/ip.git"
+    },
+    {
+      "repoName": "JethroPhuah/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/JethroPhuah/ip.git"
+    },
+    {
+      "repoName": "nivikcivik/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/nivikcivik/ip.git"
+    },
+    {
+      "repoName": "leowxx/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/leowxx/ip.git"
+    },
+    {
+      "repoName": "heyjinwei/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/heyjinwei/ip.git"
+    },
+    {
+      "repoName": "H-horizon/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/H-horizon/ip.git"
+    },
+    {
+      "repoName": "cloudy3/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/cloudy3/ip.git"
+    },
+    {
+      "repoName": "xseh/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/xseh/ip.git"
+    },
+    {
+      "repoName": "NgManSing/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/NgManSing/ip.git"
+    },
+    {
+      "repoName": "Emkay16/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/Emkay16/ip.git"
+    },
+    {
+      "repoName": "yyixue/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/yyixue/ip.git"
+    },
+    {
+      "repoName": "Rizavur/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/Rizavur/ip.git"
+    },
+    {
+      "repoName": "bryanwhl/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/bryanwhl/ip.git"
+    },
+    {
+      "repoName": "jadenwjh/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/jadenwjh/ip.git"
+    },
+    {
+      "repoName": "8kdesign/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/8kdesign/ip.git"
+    },
+    {
+      "repoName": "SimBowen/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/SimBowen/ip.git"
+    },
+    {
+      "repoName": "lihaoyangML/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/lihaoyangML/ip.git"
+    },
+    {
+      "repoName": "vaiish371/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/vaiish371/ip.git"
+    },
+    {
+      "repoName": "warmwhalefy/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/warmwhalefy/ip.git"
+    },
+    {
+      "repoName": "lowwilliam/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/lowwilliam/ip.git"
+    },
+    {
+      "repoName": "Rye98/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/Rye98/ip.git"
+    },
+    {
+      "repoName": "zikunz/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/zikunz/ip.git"
+    },
+    {
+      "repoName": "jhjhajh/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/jhjhajh/ip.git"
+    },
+    {
+      "repoName": "iamakilahamed/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/iamakilahamed/ip.git"
+    },
+    {
+      "repoName": "fupernova/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/fupernova/ip.git"
+    },
+    {
+      "repoName": "tzexern/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/tzexern/ip.git"
+    },
+    {
+      "repoName": "lamzf1998/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/lamzf1998/ip.git"
+    },
+    {
+      "repoName": "e0699194/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/e0699194/ip.git"
+    },
+    {
+      "repoName": "gerardtwk/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/gerardtwk/ip.git"
+    },
+    {
+      "repoName": "JoviYeung92/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/JoviYeung92/ip.git"
+    },
+    {
+      "repoName": "Vinci-Hu/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/Vinci-Hu/ip.git"
+    },
+    {
+      "repoName": "ongweisheng/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/ongweisheng/ip.git"
+    },
+    {
+      "repoName": "jalvinchan/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/jalvinchan/ip.git"
+    },
+    {
+      "repoName": "NoorSarrah/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/NoorSarrah/ip.git"
+    },
+    {
+      "repoName": "song0180/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/song0180/ip.git"
+    },
+    {
+      "repoName": "951553394/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/951553394/ip.git"
+    },
+    {
+      "repoName": "leeyp/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/leeyp/ip.git"
+    },
+    {
+      "repoName": "blank-bank/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/blank-bank/ip.git"
+    },
+    {
+      "repoName": "Cocokkkk/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/Cocokkkk/ip.git"
+    },
+    {
+      "repoName": "SimJJ96/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/SimJJ96/ip.git"
+    },
+    {
+      "repoName": "Zufiqqar/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/Zufiqqar/ip.git"
+    },
+    {
+      "repoName": "KimIdeas8/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/KimIdeas8/ip.git"
+    },
+    {
+      "repoName": "baggiiiie/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/baggiiiie/ip.git"
+    },
+    {
+      "repoName": "geezzzyyy/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/geezzzyyy/ip.git"
+    },
+    {
+      "repoName": "soepaingzaw/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/soepaingzaw/ip.git"
+    },
+    {
+      "repoName": "kangxinwang/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/kangxinwang/ip.git"
+    },
+    {
+      "repoName": "oscarlai1998/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/oscarlai1998/ip.git"
+    },
+    {
+      "repoName": "aliciatay-zls/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/aliciatay-zls/ip.git"
+    },
+    {
+      "repoName": "jovanhuang/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/jovanhuang/ip.git"
+    },
+    {
+      "repoName": "boonjuey/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/boonjuey/ip.git"
+    },
+    {
+      "repoName": "brynagoh/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/brynagoh/ip.git"
+    },
+    {
+      "repoName": "LeeHanYongAndy/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/LeeHanYongAndy/ip.git"
+    },
+    {
+      "repoName": "PingruiLi/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/PingruiLi/ip.git"
+    },
+    {
+      "repoName": "joohwan58/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/joohwan58/ip.git"
+    },
+    {
+      "repoName": "Krithigha24/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/Krithigha24/ip.git"
+    },
+    {
+      "repoName": "Chihui8199/ip[master]",
+      "errorMessage": "Failed to clone from https://github.com/Chihui8199/ip.git"
+    }
+  ],
+  "sinceDate": "2020-12-30",
+  "untilDate": "2021-01-30",
+  "isSinceDateProvided": false,
+  "isUntilDateProvided": false
+}
