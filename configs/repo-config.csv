@@ -1,6 +1,5 @@
 Repository's Location,Branch,File Formats,Ignore Glob List,Ignore standalone config,Ignore Commit List,Ignore Authors List
 https://github.com/beaniestanley/ip.git,master,,tutorials/**;src/main/resources,,,
-https://github.com/conanlees/ip.git,master,,tutorials/**;src/main/resources,,,
 https://github.com/CabbageTime/ip.git,master,,tutorials/**;src/main/resources,,,
 https://github.com/FarmZH98/ip.git,master,,tutorials/**;src/main/resources,,,
 https://github.com/jalvinchan/ip.git,master,,tutorials/**;src/main/resources,,,
